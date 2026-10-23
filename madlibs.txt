@@ -1,12 +1,12 @@
-adjective (descriptor): mysterious 
+adjective (descriptor): smelly
 adjective (descriptor): gigantic
 plural noun (person/place/thing): moon
 a number: 54
-plural noun (person/place/thing):computers
+plural noun (person/place/thing): computers
 adjective (descriptor): nice
 proper noun (name of a person/place/thing): batman
-verb (action word) ending in -ing:dancing
-adjective (descriptor):scary
-noun (person/place/thing):space
+verb (action word) ending in -ing: dancing
+adjective (descriptor): scary
+noun (person/place/thing): dog
 adjective (descriptor): wonderful
-noun (person/place/thing):burger
+noun (person/place/thing): burger
